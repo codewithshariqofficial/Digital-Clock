@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CyberClock // Futuristic Time Interface</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="dark-mode">
+    <div class="scanlines"></div>
+    <div class="noise"></div>
+
+    <main class="container">
+        <header class="header">
+            <div class="logo">CYBER<span>CLOCK</span></div>
+            <div class="controls">
+                <button id="theme-toggle" class="btn-icon" title="Toggle Theme">
+                    <span class="icon">🌓</span>
+                </button>
+            </div>
+        </header>
+
+        <section class="main-clock-section">
+            <div class="clock-card neon-border">
+                <div id="date" class="date-display">-- / -- / ----</div>
+                <div id="clock" class="time-display">00:00:00</div>
+                <div id="day" class="day-display">--------</div>
+            </div>
+        </section>
+
+        <section class="secondary-sections">
+            <div class="world-clock-container">
+                <h2 class="section-title">WORLD<span>ZONES</span></h2>
+                <div id="world-clocks" class="world-clocks-grid">
+                    <!-- Dynamic World Clocks -->
+                </div>
+                <div class="add-zone">
+                    <select id="timezone-select">
+                        <option value="UTC">Select Timezone...</option>
+                        <option value="America/New_York">New York</option>
+                        <option value="Europe/London">London</option>
+                        <option value="Asia/Tokyo">Tokyo</option>
+                        <option value="Asia/Dubai">Dubai</option>
+                        <option value="Australia/Sydney">Sydney</option>
+                    </select>
+                    <button id="add-zone-btn" class="btn-neon">ADD ZONE</button>
+                </div>
+            </div>
+
+            <div class="alarms-container">
+                <h2 class="section-title">ACTIVE<span>ALARMS</span></h2>
+                <div id="alarms-list" class="alarms-list">
+                    <!-- Dynamic Alarms -->
+                </div>
+                <div class="add-alarm">
+                    <input type="time" id="alarm-time">
+                    <button id="add-alarm-btn" class="btn-neon">SET ALARM</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div id="alarm-overlay" class="overlay hidden">
+        <div class="alarm-modal">
+            <div class="glitch-text" data-text="ALARM ACTIVATED">ALARM ACTIVATED</div>
+            <button id="stop-alarm" class="btn-neon">DISMISS</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
