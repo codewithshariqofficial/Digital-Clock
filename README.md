@@ -97,9 +97,3 @@ Digital-Clock/
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-shariq-shahid.vercel.app/)
 
 ---
-
-<div align="center">
-
-â­ **Star this repo if you like it!** â­
-
-</div>
