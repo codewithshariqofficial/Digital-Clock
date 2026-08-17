@@ -2,7 +2,7 @@
 
 # Digital Clock
 
-**A sleek real-time digital clock with glowing display, date & modern dark UI. Built with HTML, CSS & JavaScript.**
+**A sleek real-time digital clock with glowing display, date and modern dark UI. Built with HTML, CSS and JavaScript.**
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://digital-clock.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -21,7 +21,7 @@
 
 ## About
 
-A **stunning real-time digital clock** with a modern glowing display. Shows hours, minutes, seconds, and date â€" updating every second. Features a beautiful dark theme with neon glow effects.
+A **stunning real-time digital clock** with a modern glowing display. Shows hours, minutes, seconds, and date -- updating every second. Features a beautiful dark theme with neon glow effects.
 
 Perfect example of JavaScript `Date` API and `setInterval()` usage.
 
@@ -79,10 +79,10 @@ start index.html
 
 ```
 Digital-Clock/
-â"œâ"€â"€ index.html      # Main page
-â"œâ"€â"€ script.js       # Clock logic
-â"œâ"€â"€ style.css       # Styling & glow effects
-â""â"€â"€ README.md
+  index.html      # Main page
+  script.js       # Clock logic
+  style.css       # Styling and glow effects
+  README.md
 ```
 
 ---
