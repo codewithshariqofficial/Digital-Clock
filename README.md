@@ -1,6 +1,6 @@
 <div align="center">
 
-# â° Digital Clock
+# Digital Clock
 
 **A sleek real-time digital clock with glowing display, date & modern dark UI. Built with HTML, CSS & JavaScript.**
 
@@ -13,13 +13,13 @@
 
 ---
 
-## ðŸ“Œ Topics
+## Topics
 
-`html` `css` `javascript` `digital-clock` `real-time` `date-api` `timer` `dark-theme` `responsive-design` `front-end` `web-development` `vanilla-js` `css-animations` `ui-projects`
+`html` `css` `javascript` `digital-clock` `real-time` `date-api` `timer` `dark-theme` `responsive-design` `vanilla-js`
 
 ---
 
-## ðŸ“– About
+## About
 
 A **stunning real-time digital clock** with a modern glowing display. Shows hours, minutes, seconds, and date â€” updating every second. Features a beautiful dark theme with neon glow effects.
 
@@ -27,32 +27,32 @@ Perfect example of JavaScript `Date` API and `setInterval()` usage.
 
 ---
 
-## âœ¨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| ðŸ• Real-Time | Updates every second |
-| ðŸ“… Date Display | Shows full date |
-| ðŸŒ™ Dark Theme | Neon glow effect design |
-| âš¡ Blinking Colons | Animated time separators |
-| ðŸ“± Responsive | Works on all screen sizes |
-| ðŸš« Zero Dependencies | Pure vanilla code |
-| ðŸŽ¨ Glowing Effect | CSS text-shadow glow |
-| âš¡ Lightweight | < 5KB total size |
+| Real-Time | Updates every second |
+| Date Display | Shows full date |
+| Dark Theme | Neon glow effect design |
+| Blinking Colons | Animated time separators |
+| Responsive | Works on all screen sizes |
+| Zero Dependencies | Pure vanilla code |
+| Glowing Effect | CSS text-shadow glow |
+| Lightweight | Less than 5KB total size |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ```
-HTML5 âžœ Clock Structure
-CSS3  âžœ Dark Theme, Glow Effects, Animations
-JS    âžœ Date Object, setInterval, DOM Updates
+HTML5  -->  Clock Structure
+CSS3   -->  Dark Theme, Glow Effects, Animations
+JS     -->  Date Object, setInterval, DOM Updates
 ```
 
 ---
 
-## âš™ï¸ How It Works
+## How It Works
 
 ```javascript
 function updateClock() {
@@ -65,7 +65,7 @@ setInterval(updateClock, 1000);
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/codewithshariqofficial/Digital-Clock.git
@@ -75,7 +75,7 @@ start index.html
 
 ---
 
-## ðŸ“‚ Project Structure
+## Project Structure
 
 ```
 Digital-Clock/
@@ -87,7 +87,7 @@ Digital-Clock/
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
 **Code With Shariq Official**
 
@@ -95,5 +95,3 @@ Digital-Clock/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithshariq1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codewithshariq1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-shariq-shahid.vercel.app/)
-
----
