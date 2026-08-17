@@ -21,7 +21,7 @@
 
 ## About
 
-A **stunning real-time digital clock** with a modern glowing display. Shows hours, minutes, seconds, and date â€” updating every second. Features a beautiful dark theme with neon glow effects.
+A **stunning real-time digital clock** with a modern glowing display. Shows hours, minutes, seconds, and date â€" updating every second. Features a beautiful dark theme with neon glow effects.
 
 Perfect example of JavaScript `Date` API and `setInterval()` usage.
 
@@ -79,10 +79,10 @@ start index.html
 
 ```
 Digital-Clock/
-â”œâ”€â”€ index.html      # Main page
-â”œâ”€â”€ script.js       # Clock logic
-â”œâ”€â”€ style.css       # Styling & glow effects
-â””â”€â”€ README.md
+â"œâ"€â"€ index.html      # Main page
+â"œâ"€â"€ script.js       # Clock logic
+â"œâ"€â"€ style.css       # Styling & glow effects
+â""â"€â"€ README.md
 ```
 
 ---
